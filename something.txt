@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asdasdasdasd
+=======
+asd
+-aaaaaa
+>>>>>>> 2000s
